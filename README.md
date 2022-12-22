@@ -1,2 +1,2 @@
-# Book_of_Dungeon
-Just school team project which I am the leader.(but i took about 70% of the responsiblity...)
+# version 0.X
+making game frames, there were some bugs
