@@ -1,2 +1,3 @@
 # version 0.X
-making game frames, there were some bugs
+-made the essentail game frame (the process of start-skilll random award-battle-ending)
+-put some design
