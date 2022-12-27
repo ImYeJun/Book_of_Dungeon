@@ -3,4 +3,4 @@
 -add the defend button of each atttribute (fire,water,dendro)   
 -sorted the skill class    
 -unified the font using in pygame   
--add a easteregg :)   
+-add an easteregg :)   
